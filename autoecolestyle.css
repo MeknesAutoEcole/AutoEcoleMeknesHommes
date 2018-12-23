@@ -1,0 +1,49 @@
+html { background: url(1.jpg) no-repeat center center fixed; 
+
+  background-size: cover;
+  
+}
+#contact {
+		border: 2px solid #000000;
+		color: black;
+		text-align: center;
+		width: 280px;
+		background-color: #FFFB00;
+		float: left;
+		margin-top: 30px;
+}
+aside {
+	border: 2px solid #000000;
+	background-color: #EE4C2B;
+	color: #FFFFFF;
+	text-align: center;
+	width: 320px;
+	float: right;
+	margin-top: 30px;
+
+
+}
+
+* {
+	font-family: Georgia, serif;
+	
+}
+
+header {
+		background-color: #000000;
+		color: White;
+		opacity: 1;
+		text-align: center;
+		height: 100px; 
+		width: 1330px;
+		
+			
+}
+article{
+	color: white;
+	width: 600px;
+	text-align: center;
+	float: right;
+	margin: 30px 60px;
+	
+}
